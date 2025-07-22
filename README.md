@@ -1,2 +1,2 @@
 # HandDetectArduino
-A repo for testing out some funky shit
+A repo for testing out some funky shit.
